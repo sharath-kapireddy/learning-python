@@ -1,6 +1,6 @@
 # 🐍 Project: Learning Python
 
-![Python Version](https://img.shields.io/badge/python-3.13.2-blue)
+![Python Version](https://img.shields.io/badge/python-3.14.2-blue)
 <!-- ![GitHub Stars](https://img.shields.io/github/stars/sharath-kapireddy/learning-python?style=social)
 ![Work In Progress](https://img.shields.io/badge/status-work_in_progress-orange) -->
 
