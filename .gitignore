@@ -4,3 +4,6 @@
 **/newfile.txt
 **__pycache__
 **.vscode
+.venv/
+*.venv/
+**.venv/
